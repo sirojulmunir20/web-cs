@@ -1,0 +1,14 @@
+*{
+    background-color: black
+}
+
+#particles-js{
+  margin-top: 50%;
+}
+
+.text{
+  color: #00ff37;
+  font-size: 80px;
+  font-weight: 900;
+  font-family: sans-serif;
+}
