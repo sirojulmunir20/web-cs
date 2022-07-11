@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comic+Neue:ital,wght@1,700&family=Outfit:wght@100&family=Poppins:wght@300;400;500;600;700&display=swap');
+
 *{
     background-color: black
 }
@@ -13,7 +15,7 @@
   color: #38BDF8;
   font-size: 50px;
   font-weight: 600;
-  font-family: 'comic sans ms';
+  font-family: 'Comic Neue', sans-serif;
  
 
 }
