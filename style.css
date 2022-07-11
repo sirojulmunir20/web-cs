@@ -4,6 +4,8 @@
 
 #particles-js{
   height: 10%;
+  align-items: center;
+  justify-content: center;
 }
 
 .text{
@@ -11,4 +13,6 @@
   font-size: 80px;
   font-weight: 600;
   font-family: sans-serif;
+ 
+
 }
